@@ -1,8 +1,5 @@
 <h1 align="center">
-<br>
 
-<br>
-<br>
 FutureNinjas
 </h1>
 
@@ -43,9 +40,6 @@ FutureNinjas
 -   🎶 - **Material UI** — A components library for fast and easy development
 <hr />
 
-## Deploy
-- http://futureninja-diego.surge.sh/
-<hr />
-
 ## Contato
 - [Linkedin](https://www.linkedin.com/in/diego-molinari/)
+
