@@ -5,6 +5,9 @@ FutureNinjas
 <h5 align="center">O talento certo no momento certo</h5>
 <hr />
 
+![FutureNinjas Demo](https://github.com/diegotjmolinari/futureninjas/blob/master/src/assets/demo.gif)
+
+
 ## Descrição do Projeto
 <p align="justify"> O projeto consiste em um protótipo de um marketplace. Marketplace são negócios que conectam "duas pontas" - como, por exemplo, o website getninja, que conecta prestadores de serviço com o contratante. </p>
 <hr />
@@ -41,4 +44,7 @@ FutureNinjas
 
 ## Contato
 - [Linkedin](https://www.linkedin.com/in/diego-molinari/)
+
+
+
 
