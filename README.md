@@ -2,8 +2,7 @@
 <h1 align="center">
 FutureNinjas
 </h1>
-
-<p align="center">O talento certo no momento certo</p>
+<h3 align="center">O talento certo no momento certo</h3>
 <hr />
 
 ## Descrição do Projeto
